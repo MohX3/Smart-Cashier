@@ -1,0 +1,5 @@
+streamlit>=1.25
+pandas
+pillow
+ultralytics
+rapidfuzz   # optional, if you want the faster matcher
