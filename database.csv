@@ -1,0 +1,40 @@
+﻿Class Name,Class ID (int),Coarse Class Name,Coarse Class ID (int),Price (float),Availability,Supplier,Retail Price,Date of Purchasing
+Ulker tea biscuit,0,Sweets and Snacks,0,13,16,Ulker,15,15-Feb-25
+Kinza cola,1,Soft Drinks,2,2.5,99,Kinza Beverages,2.5,15-Jan-25
+Al Marai apple juice,2,Juice,1,8.95,50,Almarai,11,15-Feb-25
+Quaker oats,3,Grains,4,5,11,PepsiCo,8,15-Feb-25
+Rehan cocoa powder,4,Hot Drinks,3,12,80,Rehan,14,15-Jan-25
+Puck spreadable cream cheese,5,Dairy Products,6,12,100,Puck,15,15-Mar-25
+Puck cream analogue,6,Dairy Products,6,3,50,Puck,5,15-Mar-25
+Osrati salt,7,Baking,5,4,50,Osrati,8,15-Apr-25
+Pantene hair shampoo,8,Cleaning Essentials,8,10.95,40,Pantene,33,15-Apr-25
+Indomie instant noodle,9,Grains,4,2,500,Indofood,4,15-Apr-25
+7 Days cake bar chocolate,10,Sweets and Snacks,0,9,20,Chipita,11,15-Feb-25
+Kinza cranberry,11,Soft Drinks,2,2.5,99,Kinza Beverages,2.5,15-Jan-25
+Abu Kas rice,12,Grains,4,5,120,Abu Kas,18,15-Feb-25
+Al Ahmed tea,13,Hot Drinks,3,14.95,50,Al Ahmed Tea Co.,17.95,15-Jan-25
+Al Kbous tea,14,Hot Drinks,3,12.95,90,Al Kbous Group,16,15-Jan-25
+Al Marai cooking cream,15,Dairy Products,6,11,99,Almarai,14,15-Mar-25
+Al Marai mango juice,16,Juice,1,8.95,50,Almarai,11,15-Feb-25
+Al Marai mixed fruit juice,17,Juice,1,8.95,50,Almarai,11,15-Feb-25
+Al Osra fine sugar,18,Baking,5,5,13,Al Osra,8,15-Apr-25
+Al Marai fruit cocktail juice,19,Juice,1,8.95,50,Almarai,11,15-Feb-25
+Kinza diet,20,Soft Drinks,2,2.5,130,Kinza Beverages,2.5,15-Jan-25
+Kinza orange,21,Soft Drinks,2,2.5,99,Kinza Beverages,2.5,15-Jan-25
+Kuwaiti all purpose flour,22,Grains,4,5,33,Kuwait Flour Mills & Bakeries,8,15-Feb-25
+Lusine white sliced bread,23,Baking,5,5,30,Lusine,8,15-Apr-25
+Nescafe instant coffee,24,Hot Drinks,3,18,80,Nestlé,21,15-Jan-25
+Nesquik,25,Hot Drinks,3,23,100,Nestlé,28,15-Jan-25
+Noor neutral cooking oil,26,Sauces and Spices,7,14,12,Noor,19,15-Apr-25
+Nutella,27,Sweets and Snacks,0,25,120,Ferrero,30,15-Jan-25
+Al Marai spreadable cream cheese,28,Dairy Products,6,12,100,Almarai,15,15-Mar-25
+Anchor powdered milk,29,Dairy Products,6,65,87,Fonterra,80,15-Mar-25
+Baidar natural vinegar,30,Sauces and Spices,7,5,20,Baidar,8,15-Apr-25
+Crown cream analogue,31,Dairy Products,6,3,230,Puck,5,15-Mar-25
+Goody mayonnaise,32,Grains,4,15.95,190,Goody,24,15-Apr-25
+Dream Whip,33,Baking,5,12,50,Kraft Heinz,15,15-Mar-25
+Al Saudia tomato paste,34,Grains,4,2,20,Saudi,5,15-Mar-25
+Alalali corn flour,35,Baking,5,8,23,Al Alali,5,15-Apr-25
+Goody macaroni ring,36,Grains,4,5,66,Goody,8,15-Mar-25
+Goody spaghetti,37,Grains,4,5,33,Goody,8,15-Mar-25
+7 Days strawberry cake bar,38,Sweets and Snacks,0,9,20,Chipita,11,15-Feb-25
